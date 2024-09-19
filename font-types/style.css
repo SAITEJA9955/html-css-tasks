@@ -1,0 +1,21 @@
+h1::first-line{
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    background-color: greenyellow;
+    color: white;
+    font-family: cursive;
+}
+h3{
+    background-color: blue;
+     color: white;
+     font-family: 'Times New Roman', Times, serif;
+
+}
+h4{
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 1.5rem;
+}

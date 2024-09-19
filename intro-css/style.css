@@ -1,0 +1,32 @@
+img{
+    width: 100px;
+}
+
+
+#mainheading{
+    background-color: blue;
+}
+#patcummins{
+    background-color: brown;
+    color: black;
+    width: 200px;
+
+}
+#patimage{
+    width:200px;    
+}
+
+#patcumminsdes{
+    color:blueviolet;
+    display:inline-block;
+    width: 900px;
+    height:300px ;
+    text-align: justify;
+    overflow:auto;
+    
+}
+#playersofsrhbody{
+    background-color: lightgreen;
+
+}
+ 

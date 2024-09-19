@@ -1,0 +1,17 @@
+form{
+    background-color: deepskyblue;
+    border: 3px solid whitesmoke;
+    display: inline-block;
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
+form div{
+    margin: 15px;
+
+}
+.mainform{
+    position: relative;
+    left: 550px;
+}

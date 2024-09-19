@@ -1,0 +1,32 @@
+
+div{
+    display: inline-block;
+    text-align: center;
+ border:20px solid yellowgreen ;
+   margin: 10px;
+     
+}
+
+.heropic{
+    width: 350px;
+    height: 400px; ;
+}
+
+#ramcharandiv{
+    background-color: rgb(150, 100, 200);
+    width: 350px;
+} 
+#amitabdiv{
+    background-color: lightgreen;
+    width: 350px;
+
+}   
+#vijaydiv{
+    background-color: blue;
+    width: 350px;
+}
+div p{
+    text-align: justify;
+    padding: 20px;
+    overflow:hidden;
+}

@@ -1,0 +1,59 @@
+.playerpic{
+    width:300px ;
+}
+#viratpic{
+    position: relative;
+    left: 400px;
+    z-index: 20;
+}
+#ishanpic{
+    position: relative;
+    right: 100px;
+    z-index: 18;
+}
+#sirajpic{
+    position: relative;
+    z-index: 17;
+}
+#shubmanpic{
+    position: relative;
+    right: 320px;
+}
+#syadavpic{
+    position: relative;
+    bottom: 302px;
+    left: 200px;
+    z-index: 15;
+}
+#rajinilogo{
+    width:100px;
+    position: fixed;
+    right: 0px;
+}
+#heading{
+    background-color: orange;
+    position: sticky;
+    top: 0px;
+    bottom: 0px;
+}
+#parents{
+    width: 400px;
+    height: 350px;
+    background-color: deepskyblue;
+   position: relative;
+}
+#kids{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    position: absolute;
+    right: 100px;
+    bottom: 100px;
+}
+
+
+
+
+
+
+

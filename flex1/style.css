@@ -1,0 +1,155 @@
+.container{
+    background-color: green;
+    height: 50vh;
+    width: 300px;
+    display: flex;
+    flex-direction:row;
+    
+}
+.item{
+    background-color: aqua;
+    border: 5px solid black;
+    width: 50px;
+    height:50px;
+    color:black;
+}
+.container1{
+    background-color: deepskyblue;
+    width: 300px;
+    height: 50vh;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    left: 300px;
+    bottom: 285px;
+    margin: 10px;
+}
+.numeric{
+    background-color: yellowgreen;
+    border: 5px solid rgb(0, 0, 0);
+    width: 50px;
+    height: 50px;
+    color: black;
+}
+.container2{
+    background-color: orangered;
+    width: 300px;
+    height: 50vh;
+    display:flex;
+    flex-direction: row-reverse;
+    position: relative;
+    left: 600px;
+    bottom: 580px;
+    margin: 20px; 
+}
+.alpha{
+    background-color: brown;
+    border: 5px solid darkgrey;
+    width: 50px;
+    height: 50px;
+    color:whitesmoke;
+}
+.container3{
+    background-color: deeppink;
+    width: 300px;
+    height: 50vh;
+    display:flex;
+    flex-direction:column-reverse;
+    position: relative;
+    left: 930px;
+    bottom: 875px;
+    
+    
+}
+.alpha1{
+    background-color:greenyellow;
+    border: 5px solid grey;
+    width: 50px;
+    height: 50px;
+    color:blueviolet;
+}
+.container4{
+    background-color:darkorchid;
+    width: 300px;
+    height: 50vh;
+    display:flex;
+    position: relative;
+    bottom: 880px;
+    margin: 20px;
+    flex-direction: column;
+    justify-content: start;
+    flex-wrap:wrap-reverse;
+    align-items: end;
+}
+.word{ 
+    background-color: coral;
+    width: 80px;
+    height: 50px;
+    border: 5px solid crimson;
+    color: aliceblue;
+}
+.container5{
+    background-color:darkolivegreen;
+    width: 450px;
+    height: 50vh;
+    display:flex;
+    position: relative;
+    left: 330px;
+    bottom: 1175px;
+    flex-direction:row;
+    justify-content: start;
+    flex-wrap:wrap;
+    align-items: end;
+}
+.word1{ 
+    background-color:violet;
+    width: 80px;
+    height: 50px;
+    margin: 10px;
+    border: 5px solid crimson;
+    color: aliceblue;
+}
+.container6{
+    background-color:yellow;
+    width: 450px;
+    height: 50vh;
+    display:flex;
+    position: relative;
+    left: 800px;
+    bottom: 1450px;
+    flex-direction:column;
+    justify-content: end;
+    flex-wrap:wrap;
+    align-items: center;
+    
+}
+.word2{ 
+    background-color:lavenderblush;
+    width: 80px;
+    height: 50px;
+    margin: 10px;
+    border: 5px solid crimson;
+    color: black;
+}
+.container7{
+    background-color:darkslateblue;
+    width: 450px;
+    height: 50vh;
+    display:flex;
+    position: relative;
+    left: 780px;
+    bottom: 1450px;
+    margin: 10px;
+    flex-direction:row;
+    justify-content: start;
+    flex-wrap:nowrap;
+    align-items: center;
+}
+.word3{ 
+    background-color:lightcyan;
+    width: 80px;
+    height: 50px;
+    /* margin: 10px; */
+    border: 5px solid brown;
+    color: black;
+}

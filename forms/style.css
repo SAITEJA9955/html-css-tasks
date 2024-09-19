@@ -1,0 +1,52 @@
+form{
+    background-color: orange;
+    border: 5px solid lightgreen;
+    display: inline-block;
+    text-align: center; 
+    
+}
+label{
+    width: 130px;
+    display: inline-block;
+    font-size: 1.2rem;
+
+}
+form div{
+    margin: 10px;
+}
+.mainform{
+    position: relative;
+    left: 500px;
+}
+img{
+    width: 30%;
+    background-color: orange;
+   
+    
+    border: 5px solid green;
+}
+.pic{
+    width: 30%;
+    border: 5px solid yellowgreen;
+    background-color:orange;
+    
+}
+.picdisc{
+    border: 5px solid blue;
+    
+    display: inline-block;
+    width: 30%;
+    background-color: aquamarine;
+}
+.discpic{
+border: 5px solid green;
+display: inline-block;
+width: 30%;
+margin: 10px;
+background-color: aqua;
+}
+.divpara{
+    text-align: justify;
+    padding: 10px;
+    display: inline;
+}
